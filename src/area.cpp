@@ -1,7 +1,6 @@
 #include <iostream>
-#include "Lab01\include\area.h"
+#include "area.h"
 #define PI 3.1415
-using namespace std;
 
 //Triângulo
 float area_Triangulo(float altura, float base)
